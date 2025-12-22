@@ -1,0 +1,15 @@
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_AverageCalculator.Tests
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/bin/Debug/net8.0/AverageCalculator.Tests.dll
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/bin/Debug/net8.0/AverageCalculator.Tests.pdb
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/obj/Debug/net8.0/AverageCalculator.Tests.csproj.AssemblyReference.cache
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/obj/Debug/net8.0/AverageCalculator.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/obj/Debug/net8.0/AverageCalculator.Tests.AssemblyInfoInputs.cache
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/obj/Debug/net8.0/AverageCalculator.Tests.AssemblyInfo.cs
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/obj/Debug/net8.0/AverageCalculator.Tests.csproj.CoreCompileInputs.cache
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/obj/Debug/net8.0/AverageCalculator.Tests.sourcelink.json
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/obj/Debug/net8.0/AverageCalculator.Tests.dll
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/obj/Debug/net8.0/refint/AverageCalculator.Tests.dll
+/config/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/obj/Debug/net8.0/AverageCalculator.Tests.pdb
