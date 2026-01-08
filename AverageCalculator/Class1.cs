@@ -109,4 +109,4 @@ namespace AverageCalculator;
         {
             return values.Length;
         }
-    }
+}
