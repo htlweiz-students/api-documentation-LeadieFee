@@ -2,8 +2,19 @@
  
 namespace Program00;
  
+    /// <summary>
+    /// Program welches die AverageCalculator Funktion verwendet
+    /// </summary>
 public class Program00
 {
+    /// <summary>
+    /// AverageCalculator wird aufgerufen, Werte werden in einem Array gespeichert,
+    /// Funktion AverageCalculator wird auf Array angewendet.
+    /// Anzahl der gespeicherten Werte und Durchschnitt der gespeicherten Werte wird ausgegeben.
+    /// </summary>
+    /// <returns>
+    /// Gibt den Wert 0 zurück, wenn das Programm ohne Fehler beendet wurde.
+    /// </returns>
     public static int Main()
     {
         AverageCalculator.AverageCalculator calculator = new();
