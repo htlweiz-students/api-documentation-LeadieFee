@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/config/workspace/api-documentation-LeadieFee/AverageCalculator/AverageCalculator.csproj",
+      "projectUniqueName": "/workspace/api-documentation-LeadieFee/AverageCalculator/AverageCalculator.csproj",
       "projectName": "AverageCalculator",
-      "projectPath": "/config/workspace/api-documentation-LeadieFee/AverageCalculator/AverageCalculator.csproj",
+      "projectPath": "/workspace/api-documentation-LeadieFee/AverageCalculator/AverageCalculator.csproj",
       "packagesPath": "/config/.nuget/packages/",
-      "outputPath": "/config/workspace/api-documentation-LeadieFee/AverageCalculator/obj/",
+      "outputPath": "/workspace/api-documentation-LeadieFee/AverageCalculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/config/.nuget/NuGet/NuGet.Config"

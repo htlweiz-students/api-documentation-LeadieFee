@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L9JaK+VJIVN+PmsLkwj1E29s/iKsm37qJgxzIZODNV79l5r/msWgMDfjEIAFvxx41hM+OevZwixH2pY2Om7nIQ==",
+  "dgSpecHash": "Rjorkh+sImv7rprsE/AVsX5VwKWRgW0O5BViK5MaEZT/136Y6WN3rL7TQeviaDq2eh77b9nOIeKLkwDGfxT+qg==",
   "success": true,
-  "projectFilePath": "/config/workspace/api-documentation-LeadieFee/AverageCalculator/AverageCalculator.csproj",
+  "projectFilePath": "/workspace/api-documentation-LeadieFee/AverageCalculator/AverageCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

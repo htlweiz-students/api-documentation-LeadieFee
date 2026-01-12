@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AuOnjz+o0PkNlXiw34wOJVZxzAJebg7a/Re7PzyYVFD9fVDZfynplpVLn892qD8cqdpDdckt72WaHqKKr8QioA==",
+  "dgSpecHash": "NZSSGjlOY80r0TmdhqJTACWRvkaSOGMwWH+s+uizM9wlm1xdY2DRYlTfrndFNgqwigTVQNjAMfKZdyvtQWI2CA==",
   "success": true,
   "projectFilePath": "/workspace/api-documentation-LeadieFee/AverageCalculator.Tests/AverageCalculator.Tests.csproj",
   "expectedPackageFiles": [
